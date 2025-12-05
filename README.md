@@ -52,7 +52,7 @@ The goal is to compare results across techniques, interpret clusters, and visual
 ```
 AAMD-Unsupervised-Learning-Dimensionality-Reduction-Clustering/
 │
-├── A2.ipynb   → Main notebook with full analysis
+├── A2.ipynb                            → Main notebook with full analysis
 ├── A2-real.txt                         → Real dataset
 ├── A2-synthetic.txt                    → Synthetic dataset
 └── .ipynb_checkpoints/                 → System folder (ignored)
